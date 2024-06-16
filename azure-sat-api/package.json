@@ -1,0 +1,20 @@
+{
+  "name": "azure-sat-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "node start.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "Acts as an API retrieving data from the tables in Azure Storage Account.",
+  "dependencies": {
+    "@azure/data-tables": "^13.2.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "postcss": "^8.4.38",
+    "tailwindcss": "^3.4.4"
+  }
+}
