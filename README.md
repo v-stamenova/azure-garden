@@ -1,4 +1,4 @@
-# AzureGarden - Project Build for CCO Course
+# AzureGarden - Project Built for CCO Course
 
 AzureGarden is a project built as a PoC for the Cloud Computing course at HZ UAS. The main goal of AzureGarden is to help plant owners take care of their plants. Since AzureGarden is, as of now, just a Proof of Concept (PoC). It includes hardware components, cloud computing services, and even some local development.
 
